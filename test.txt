@@ -1,0 +1,13 @@
+(dp1
+I1
+S'A'
+sI2
+S'B'
+sI3
+S'C'
+sI4
+S'D'
+sI5
+S'EEEEE'
+p2
+s.
